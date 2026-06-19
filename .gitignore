@@ -1,5 +1,4 @@
 数据文件/
-README.md
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
